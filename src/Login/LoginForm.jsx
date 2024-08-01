@@ -19,7 +19,6 @@ const LoginForm = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-   
   };
 
   const handleLogin = () => {
